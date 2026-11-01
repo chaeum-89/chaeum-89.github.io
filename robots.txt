@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chaeum-89.github.io/chaeum-89/sitemap.xml
